@@ -1,0 +1,5 @@
+Python program to find the elements in a list as tuple tuple.
+num = [10, 20, 30, (10, 20), 40]
+for n in num:
+    if isinstance(n, tuple):
+        print(n)
