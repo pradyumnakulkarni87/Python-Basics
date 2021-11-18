@@ -1,3 +1,1 @@
-Program for basic calculations 
-program for while loop
-program for if elif
+collection of py files contains basic operation and functions on datatypes 
